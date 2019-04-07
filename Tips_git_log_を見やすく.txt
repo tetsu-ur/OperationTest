@@ -1,0 +1,9 @@
+leowi@MyComputer MINGW64 /d/works/20190407_OperationTest2 (master)
+$ git log --oneline --graph --decorate
+* 3c2bc6b (HEAD -> master, origin/master, origin/HEAD) pullの説明を追加
+* bd2c122 sample.txtを追加
+* b7647ec Tipsを追加
+* c2fb565 コメントにワードを追加
+* da31285 コメント行を追加
+* c1344bc Operation Memo Create
+* 1d243d6 First Commit

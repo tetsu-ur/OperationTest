@@ -1,0 +1,13 @@
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git push
+To https://github.com/tetsu-ur/OperationTest.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/tetsu-ur/OperationTest.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+リモートにはローカルにない作業が含まれているため、更新は拒否されました。 これは通常、別のリポジトリが同じ参照をプッシュしていることが原因です。 もう一度プッシュする前に、最初にリモートの変更（例えば 'git pull ...'）を統合することをお勧めします。
+詳細は 'git push --help'の '早送りについての注意'をご覧ください。
