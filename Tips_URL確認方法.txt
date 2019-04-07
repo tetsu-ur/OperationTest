@@ -1,0 +1,9 @@
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git remote -v
+origin  https://github.com/tetsu-ur/OperationTest.git (fetch)
+origin  https://github.com/tetsu-ur/OperationTest.git (push)
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git config --get remote.origin.url
+https://github.com/tetsu-ur/OperationTest.git
+

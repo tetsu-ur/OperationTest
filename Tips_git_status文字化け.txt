@@ -1,0 +1,29 @@
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        Console.txt
+        "Tips_URL\347\242\272\350\252\215\346\226\271\346\263\225.txt"
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git config --global core.quotepath false
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        Console.txt
+        Tips_URLŠm”F•û–@.txt
+        Tips_git_status•¶Žš‰»‚¯.txt
+
+nothing added to commit but untracked files present (use "git add" to track)

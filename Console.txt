@@ -1,0 +1,333 @@
+
+leowi@MyComputer MINGW64 /d/works
+$ git clone https://github.com/tetsu-ur/Zackmest.git 20190406_Zackmest
+Cloning into '20190406_Zackmest'...
+remote: Enumerating objects: 557, done.
+remote: Total 557 (delta 0), reused 0 (delta 0), pack-reused 557
+Receiving objects: 100% (557/557), 4.90 MiB | 1.39 MiB/s, done.
+Resolving deltas: 100% (109/109), done.
+
+leowi@MyComputer MINGW64 /d/works
+$ cd 20190406_Zackmest/
+
+leowi@MyComputer MINGW64 /d/works/20190406_Zackmest (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+leowi@MyComputer MINGW64 /d/works/20190406_Zackmest (master)
+$ git log
+commit 1d47da5af55ab5e9f2fba03407ade74b28f4b277 (HEAD -> master, origin/master, origin/HEAD)
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sat Dec 7 16:40:31 2013 +0900
+
+    ・説明、技術解説、Tipsページを追加
+    ・メニューを追加
+
+commit cf471ec7b8f0aeb21cda69208a19d0e69acf7912
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sun Oct 6 23:13:02 2013 +0900
+
+    ・リセットボタンを追加
+    ・プルダウンをリストボックスに変更
+    ・その他
+
+commit 869637010fdc13c89debcaea8cb8c2b99a7629aa
+Merge: 9159031 10c414c
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sat Sep 28 09:49:39 2013 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 9159031c621ee498e6612e27fc3c32ff55bc9d8d
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Thu Sep 26 23:49:36 2013 +0900
+:...skipping...
+commit 1d47da5af55ab5e9f2fba03407ade74b28f4b277 (HEAD -> master, origin/master, origin/HEAD)
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+commit 1d47da5af55ab5e9f2fba03407ade74b28f4b277 (HEAD -> master, origin/master, origin/HEAD)
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sat Dec 7 16:40:31 2013 +0900
+
+    ・説明、技術解説、Tipsページを追加
+    ・メニューを追加
+
+commit cf471ec7b8f0aeb21cda69208a19d0e69acf7912
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sun Oct 6 23:13:02 2013 +0900
+
+    ・リセットボタンを追加
+    ・プルダウンをリストボックスに変更
+    ・その他
+
+commit 869637010fdc13c89debcaea8cb8c2b99a7629aa
+Merge: 9159031 10c414c
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sat Sep 28 09:49:39 2013 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 1d47da5af55ab5e9f2fba03407ade74b28f4b277 (HEAD -> master, origin/master, origin/HEAD)
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sat Dec 7 16:40:31 2013 +0900
+
+    ・説明、技術解説、Tipsページを追加
+    ・メニューを追加
+
+commit cf471ec7b8f0aeb21cda69208a19d0e69acf7912
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sun Oct 6 23:13:02 2013 +0900
+
+    ・リセットボタンを追加
+    ・プルダウンをリストボックスに変更
+    ・その他
+
+commit 869637010fdc13c89debcaea8cb8c2b99a7629aa
+Merge: 9159031 10c414c
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sat Sep 28 09:49:39 2013 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 9159031c621ee498e6612e27fc3c32ff55bc9d8d
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Thu Sep 26 23:49:36 2013 +0900
+
+    ・基礎数値用の画像を登録
+    ・pixelmatrix-uniform-3e9cd85を登録
+
+commit db2e674c3cb2dd9a77be64674696119644fea5bb
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Thu Sep 26 23:45:28 2013 +0900
+
+    ・基礎数値領域を変更
+    ・さらにサイトスタイルを改良
+
+...skipping...
+
+commit cf471ec7b8f0aeb21cda69208a19d0e69acf7912
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sun Oct 6 23:13:02 2013 +0900
+
+    ・リセットボタンを追加
+    ・プルダウンをリストボックスに変更
+    ・その他
+
+commit 869637010fdc13c89debcaea8cb8c2b99a7629aa
+Merge: 9159031 10c414c
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sat Sep 28 09:49:39 2013 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 9159031c621ee498e6612e27fc3c32ff55bc9d8d
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Thu Sep 26 23:49:36 2013 +0900
+
+    ・基礎数値用の画像を登録
+    ・pixelmatrix-uniform-3e9cd85を登録
+
+commit db2e674c3cb2dd9a77be64674696119644fea5bb
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Thu Sep 26 23:45:28 2013 +0900
+
+    ・基礎数値領域を変更
+    ・さらにサイトスタイルを改良
+
+...skipping...
+
+commit cf471ec7b8f0aeb21cda69208a19d0e69acf7912
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sun Oct 6 23:13:02 2013 +0900
+
+    ・リセットボタンを追加
+    ・プルダウンをリストボックスに変更
+    ・その他
+
+commit 869637010fdc13c89debcaea8cb8c2b99a7629aa
+Merge: 9159031 10c414c
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sat Sep 28 09:49:39 2013 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 9159031c621ee498e6612e27fc3c32ff55bc9d8d
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Thu Sep 26 23:49:36 2013 +0900
+
+    ・基礎数値用の画像を登録
+    ・pixelmatrix-uniform-3e9cd85を登録
+
+commit db2e674c3cb2dd9a77be64674696119644fea5bb
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Thu Sep 26 23:45:28 2013 +0900
+
+    ・基礎数値領域を変更
+    ・さらにサイトスタイルを改良
+
+commit 10c414c7c16befe185a51b133f6397adadcf9c0a
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+Date:   Sat Sep 21 13:52:04 2013 +0900
+
+    本文の説明文案とスクロールようのJSを追加
+
+commit daf0990a993806f7f9d564e6c9bef75696172ee1
+Author: tetsu-ur <t-hirata@leo.nifty.jp>
+
+
+leowi@MyComputer MINGW64 /d/works/20190406_Zackmest (master)
+$
+
+
+leowi@MyComputer MINGW64 /d/works/20190406_Zackmest (master)
+$
+
+leowi@MyComputer MINGW64 /d/works/20190406_Zackmest (master)
+$
+
+leowi@MyComputer MINGW64 /d/works/20190406_Zackmest (master)
+$ cd ..
+
+leowi@MyComputer MINGW64 /d/works
+$ mkdir 20190406_OperationTest
+
+leowi@MyComputer MINGW64 /d/works
+$ cd !$
+cd 20190406_OperationTest
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest
+$ echo "# OperationTest" >> README.md
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest
+$ ls
+README.md
+ca
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest
+$ cat README.md
+# OperationTest
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest
+$ git init
+Initialized empty Git repository in D:/works/20190406_OperationTest/.git/
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git add README.md
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   README.md
+
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git commit -m "First Commit"
+[master (root-commit) 1d243d6] First Commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git remote add origin https://github.com/tetsu-ur/OperationTest.git
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git push -u origin master
+fatal: HttpRequestException encountered.
+   ????v??????M????G???[??????????????B
+Username for 'https://github.com': t-hirata@leo.nifty.jp
+JEnumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 230 bytes | 230.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/tetsu-ur/OperationTest.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ Jstatus
+bash: Jstatus: command not found
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ status
+bash: status: command not found
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        OperationMemo.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git add OperationMemo.txt
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   OperationMemo.txt
+
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git commit -m "Operation Memo Create"
+[master c1344bc] Operation Memo Create
+ 1 file changed, 7 insertions(+)
+ create mode 100644 OperationMemo.txt
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git remote add origin https://github.com/tetsu-ur/OperationTest.git
+fatal: remote origin already exists.
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git push -u origin master
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 423 bytes | 423.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/tetsu-ur/OperationTest.git
+   1d243d6..c1344bc  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$ git log
+commit c1344bcd8596f7081b644b88d45804b01c17eedd (HEAD -> master, origin/master)
+Author: t-hirata <t-hirata@leo.nifty.jp>
+Date:   Sat Apr 6 19:08:20 2019 +0900
+
+    Operation Memo Create
+
+commit 1d243d6356888f9b1ed7d59b32264e270c730ab6
+Author: t-hirata <t-hirata@leo.nifty.jp>
+Date:   Sat Apr 6 19:03:51 2019 +0900
+
+    First Commit
+
+leowi@MyComputer MINGW64 /d/works/20190406_OperationTest (master)
+$
